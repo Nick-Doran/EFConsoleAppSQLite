@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp.SQLite": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\doran_000\\Documents\\AA Repo\\ConsoleApp.SQLite"
+    }
+  }
+}

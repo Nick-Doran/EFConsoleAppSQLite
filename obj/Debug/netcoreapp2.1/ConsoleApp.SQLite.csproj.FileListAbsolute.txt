@@ -1,0 +1,11 @@
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.deps.json
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.runtimeconfig.json
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.runtimeconfig.dev.json
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.dll
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.pdb
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.csprojAssemblyReference.cache
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.AssemblyInfoInputs.cache
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.AssemblyInfo.cs
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.dll
+C:\Users\doran_000\Documents\AA Repo\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.pdb
